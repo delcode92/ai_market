@@ -1,0 +1,6 @@
+{
+  "name": "Forge AI Marketplace",
+  "description": "A high-performance marketplace for verified AI agents, large language models, and prompt engineering assets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
