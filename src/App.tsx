@@ -98,7 +98,7 @@ export default function App() {
           {/* Right Header Controls / Profile */}
           <div className="hidden md:flex items-center gap-4 shrink-0 pointer-events-auto">
             <div className="flex flex-col items-end leading-none">
-              <span className="text-xs font-bold text-[#131b2e]">Felix Jancuk</span>
+              <span className="text-xs font-bold text-[#131b2e]">Felix</span>
               <span className="text-[10px] text-[#10B981] font-bold uppercase tracking-wider mt-0.5">
                 Developer Acc
               </span>

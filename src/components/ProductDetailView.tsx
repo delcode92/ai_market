@@ -459,7 +459,7 @@ export default function ProductDetailView({ modelId = "nexus-7", onNavigate }: P
               </div>
               <h3 className="font-extrabold text-[#131b2e] text-xl">Thank you for subscribing!</h3>
               <p className="text-xs text-[#434939]/80 leading-relaxed">
-                Your Enterprise licensing credentials for <span className="font-bold text-[#131b2e]">Nexus-7 Sales Optimizer</span> have been securely dispatched to <span className="font-semibold text-[#131b2e]">felixjancuk@gmail.com</span>. We look forward to optimizing your sales funnel.
+                Your Enterprise licensing credentials for <span className="font-bold text-[#131b2e]">Nexus-7 Sales Optimizer</span> have been securely dispatched to <span className="font-semibold text-[#131b2e]">felix@gmail.com</span>. We look forward to optimizing your sales funnel.
               </p>
             </div>
             
